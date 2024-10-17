@@ -13,7 +13,6 @@ My Github page is where you can find me, RonnyScott, a fullstack developer from 
 As a fullstack developer, I enjoy the opportunity to learn and adapt to new technologies. This keeps me on my toes and helps me stay current. One thing that sets me apart is my strong communication and collaboration skills. I understand that teamwork is key to delivering high-quality projects, and I always strive to communicate my ideas clearly and work effectively with others to achieve our goals.
 Overall, I'm excited about the future of technology and the role I can play in shaping it as a fullstack developer.
 
-<h4>SUBSCRIBE TO OUR CHANNEL</h4>
 
 Click <a href="https://www.youtube.com/@benardkimani/videos"> here </a>to subscribe
 
@@ -45,7 +44,6 @@ Things I code with and do
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h1>Copy Profile</h1>
 
 ```md
 https://github.com/RonnyScott/
