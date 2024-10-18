@@ -14,7 +14,6 @@ As a fullstack developer, I enjoy the opportunity to learn and adapt to new tech
 Overall, I'm excited about the future of technology and the role I can play in shaping it as a fullstack developer.
 
 
-Click <a href="https://www.youtube.com/@benardkimani/videos"> here </a>to subscribe
 
 Things I code with and do
 
