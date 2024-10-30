@@ -4,7 +4,7 @@
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=RonnyScott&label=Profile%20views&color=0e75b6&style=flat"
-    alt="RonnyScott" /> </p>
+    alt="RonnyScott" /> </p>       
   
 Greetings! 
 
