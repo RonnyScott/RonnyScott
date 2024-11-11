@@ -5,7 +5,7 @@
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=RonnyScott&label=Profile%20views&color=0e75b6&style=flat"
     alt="RonnyScott" /> </p>       
-  
+
 Greetings! 
 
 My Github page is where you can find me, RonnyScott, a fullstack developer from Kenya. I'm passionate about technology and enjoy creatively solving problems. My skill set is constantly growing, allowing me to work on both the front-end and back-end of web applications. This diversity of technical abilities keeps me up-to-date with the latest trends and best practices in the industry, which I find exciting.
