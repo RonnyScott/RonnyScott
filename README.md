@@ -14,7 +14,6 @@ As a fullstack developer, I enjoy the opportunity to learn and adapt to new tech
 Overall, I'm excited about the future of technology and the role I can play in shaping it as a fullstack developer.
 
 
-
 Things I code with and do
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
